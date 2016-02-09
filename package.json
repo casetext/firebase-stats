@@ -1,0 +1,23 @@
+{
+  "name": "firebase-stats",
+  "version": "1.0.0",
+  "description": "Retrieve Firebase network stats from a Firebase ref",
+  "main": "firebase-stats.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casetext/firebase-stats.git"
+  },
+  "author": "daguej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casetext/firebase-stats/issues"
+  },
+  "homepage": "https://github.com/casetext/firebase-stats",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
